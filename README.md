@@ -1,6 +1,31 @@
-# Getting Started with Create React App
+# Peduli-Bumi Web App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## IDCamp Developer Challenge 2022: Pulih Lebih Cepat dan Bangkit Lebih Kuat bersama Teknologi
+
+## Ketentuan Utama
+
+- Developer Challenge ini terbuka untuk seluruh Warga Negara Indonesia (WNI)
+- Peserta yang mengikuti challenge ini harus terdaftar di beasiswa IDCamp 2022.
+- Solusi digital yang dibuat tidak dibatasi platform (bisa dalam bentuk aplikasi mobile, web, atau pun teknologi lain).
+- Teknologi untuk mengembangkan solusi digital juga tidak terbatas (bisa menggunakan framework atau studio code apapun).
+- Solusi digital yang dibuat ditujukan untuk membantu masyarakat Indonesia.
+- Solusi digital yang dikumpulkan harus berupa MVP (Minimum Viable Product).
+- Solusi digital yang dibuat bisa memilih tema di bidang Pendidikan, Kesehatan, Ekonomi, Sumber Daya, Sosial, Budaya, atau Lingkungan.
+- Peserta diperbolehkan untuk membuat dan submit lebih dari 1 solusi digital dalam challenge ini.
+- Semua keputusan dan penilaian pemenang adalah final dan tidak dapat diganggu gugat.
+- Pertanyaan seputar challenge ini dapat ditanyakan di forum diskusi challenge.
+
+## Kriteria Penilaian
+
+- Ide atau inovasi dan kebaruan: 20%
+- Fungsionalitas produk di Indonesia: 30%
+- Manfaat untuk masyarakat Indonesia: 25%
+- Desain dan kemudahan penggunaan: 25%
+- Diberikan tambahan nilai jika:
+- Solusi digital tersedia untuk digunakan oleh publik (terpublikasi di store atau di hosting).
+- Solusi digital menggunakan data real-time/interaktif dan bukan data dummy atau local storage.
 
 ## Available Scripts
 
@@ -13,53 +38,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
 
