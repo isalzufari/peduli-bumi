@@ -37,7 +37,6 @@ function App() {
           const token = credential.accessToken;
           // The signed-in user info.
           const user = result.user;
-          console.log(user)
           setUser(user)
         }).catch((error) => {
           // Handle Errors here.
