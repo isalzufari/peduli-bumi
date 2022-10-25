@@ -59,7 +59,7 @@ const Calculator = () => {
               <p className='text-muted'>Pilih opsi pintu</p>
               <select class="form-select" aria-label="Default select example">
                 <option selected value="1">1 pintu</option>
-                <option value="2">1 pintu</option>
+                <option value="2">2 pintu</option>
               </select>
             </div>
           </div>
