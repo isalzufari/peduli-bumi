@@ -24,7 +24,7 @@ const Navbar = ({ user, signOut }) => {
         </div>
 
         <ul className="navbar-nav">
-          {user === {} ?
+          {/* {user === {} ?
             <li className="nav-item">
               <Link className="nav-link" to="/login">Login</Link>
             </li>
@@ -35,7 +35,10 @@ const Navbar = ({ user, signOut }) => {
                 <button className='btn btn-outline-success' onClick={signOut}>Signout</button>
               </div>
             </>
-          }
+          } */}
+          <li className="nav-item">
+            <Link className="nav-link" to="/login">Login</Link>
+          </li>
         </ul>
       </div>
     </nav>
